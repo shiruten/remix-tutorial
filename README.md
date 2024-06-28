@@ -1,3 +1,7 @@
+# 勉強会用リポジトリ
+
+[Remix Tutorial]](https://remix.run/docs/en/main/start/tutorial#data-mutations)
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
